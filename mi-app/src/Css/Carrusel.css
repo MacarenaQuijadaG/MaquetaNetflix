@@ -1,0 +1,8 @@
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: 50px; /* Ajusta el ancho según sea necesario */
+    height: 50px; /* Ajusta la altura según sea necesario */
+    margin: 10px; /* Espacio entre las imágenes */
+  }
