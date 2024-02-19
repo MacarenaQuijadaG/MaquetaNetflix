@@ -1,10 +1,8 @@
 import Carousel from 'react-bootstrap/Carousel';
 import '../Css/Carrusel.css'
 
-<h2>Series Aclamadas por la Critica</h2>
 function DarkVariantExample() {
   return (
-    
     <Carousel data-bs-theme="dark">
       <Carousel.Item>
         <div className='container mt-2'>
